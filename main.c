@@ -6,4 +6,4 @@ int main(){
     int c;
     int e;
     int j;
-};
+}
